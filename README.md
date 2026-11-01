@@ -64,4 +64,4 @@ I enjoy building real-world AI systems that bridge models and production environ
 ## 📫 Let's Connect
 
 - LinkedIn: [(https://www.linkedin.com/in/yu-an-liao/)]
-- Email: yliao12@stevens.edu
+- Email: peterliao0317@gmail.com
